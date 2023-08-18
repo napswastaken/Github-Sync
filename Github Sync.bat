@@ -1,3 +1,8 @@
+# Author: naps
+# Copyright: Copyright (C) 2023 Nick Shepherd
+# License: General Public License v3.0
+# Version: 1.0
+
 @echo off
 SET "LogDir=C:\Users\Administrator\Desktop\Github\logs"
 SET "LogFileName=script_log"
